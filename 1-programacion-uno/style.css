@@ -1,0 +1,10 @@
+.btnclass {
+    padding: 12px;
+    border: 2px solid greenyellow;
+    background-color: hotpink;
+    border-radius: 50%;
+}
+
+.btnclass2 {
+    opacity: 20px;
+}
